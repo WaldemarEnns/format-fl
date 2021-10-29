@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2021-10-29
+### Fixed
+- Fixes entry point for npm package
+
 ## [1.0.0] - 2021-10-29
 ### Added
 - Added format method as a fully initial implementation including unit tests, code coverage and documentation with typedocs

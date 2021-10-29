@@ -9,6 +9,14 @@ The requirements were a bunch of assertions that have to succeed.
 
 ### Installation
 
+Simple install the npm package:
+
+```
+npm install format-fl
+```
+
+### Installation from source
+
 Run to install dev-dependencies:
 
 ```
