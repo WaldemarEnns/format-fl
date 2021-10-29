@@ -1,5 +1,5 @@
 {
-  "name": "sfp",
+  "name": "format-fl",
   "version": "1.0.0",
   "description": "A simple task to create a format function.",
   "main": "./src/index.js",
