@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2021-10-30
+### Fixed
+- Updates output module type to commonjs
+
+
 ## [1.0.2] - 2021-10-29
 ### Added
 - Adds an .npmignore file
