@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2021-11-02
+### Added
+- Adds usage example in the README.md file
+
+
 ## [1.0.3] - 2021-10-30
 ### Fixed
 - Updates output module type to commonjs

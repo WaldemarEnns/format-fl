@@ -61,3 +61,25 @@ and publish the package with
 ```
 npm publish
 ```
+
+### Usage
+
+Import the function and simply use it anywhere you need:
+
+```javascript
+const { format } = require('format-fl')
+
+console.log(format(12342.555, 2))
+// logs "12.342,56"
+```
+
+Or in typescript:
+
+```typescript
+import { format } from 'format-fl'
+
+const formattedNumber: string = format(12342.555, 2)
+
+console.log(formattedNumber)
+// logs "12.342,56"
+```

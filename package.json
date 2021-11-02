@@ -1,6 +1,6 @@
 {
   "name": "format-fl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A floating point number utility to stringify special number representation formats.",
   "types": "./dist/index.d.ts",
   "main": "./dist/index.js",
