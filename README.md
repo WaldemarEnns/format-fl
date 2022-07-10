@@ -7,12 +7,14 @@ A floating point number utility to stringify special number representation forma
 This project is a task I had to implement for a job interview process.
 The requirements were a bunch of assertions that have to succeed.
 
+**Using bun** (https://bun.sh) **as the runtime in these examples.**
+
 ### Installation
 
-Simple install the npm package:
+Simply install the bun package:
 
 ```
-npm install format-fl
+bun add format-fl
 ```
 
 ### Installation from source
@@ -20,7 +22,7 @@ npm install format-fl
 Run to install dev-dependencies:
 
 ```
-npm ci
+bun install
 ```
 
 ### Tests
@@ -28,13 +30,7 @@ npm ci
 Run for unit tests:
 
 ```
-npm run test
-```
-
-Run for code coverage:
-
-```
-npm run coverage
+bun wiptest
 ```
 
 ### Documentation
@@ -42,7 +38,7 @@ npm run coverage
 Run to generate docs with [typedoc]():
 
 ```
-npm run docs
+bun run docs
 ```
 
 This command will generate a folder `./docs` which includes static-site files.
